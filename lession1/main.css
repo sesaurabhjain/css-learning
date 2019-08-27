@@ -1,0 +1,41 @@
+.p2 {
+    background: #ff8;
+    font-size: inherit;
+}
+.p2 {
+    background: #f99;
+    background: rebeccapurple;
+}
+#p2id {
+    background: green;
+}
+p {
+    background: red;
+}
+.sec{ 
+  border : blue solid 2px;
+}
+
+.il {
+    width: 150px;
+    height: 50px;
+}
+
+.parent {
+	 width: 500px;
+	 border:  2px solid red;
+}
+
+.child{
+	position: fixed;
+	width: 50%;
+	border: 3px solid green;
+}
+
+.hamberger_menu {
+	width: 20px;
+	height:2px;
+  display:block;
+  margin-top: 4px;
+	background-color: red;
+}
